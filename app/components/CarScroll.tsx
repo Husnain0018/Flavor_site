@@ -455,7 +455,7 @@ export default function CarScroll() {
                                 <button className="pointer-events-auto px-8 md:px-10 py-3 md:py-4 bg-white rounded-full text-base md:text-xl font-bold shadow-2xl hover:scale-105 hover:bg-gray-100 transform transition-all duration-300" style={{ color: flavor.accent }}>
                                     Order {flavor.name}
                                 </button>
-                            </motion.div>n.div>
+                            </motion.div>
 
                         </div>
                     </div>
